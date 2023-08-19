@@ -22,3 +22,4 @@ yarn-error.log*
 tsconfig*.json
 vite.config.ts
 postcss.config.json
+.yarn
